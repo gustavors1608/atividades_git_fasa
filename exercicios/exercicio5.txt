@@ -1,0 +1,15 @@
+Exercício: Sistema de Loja de Roupas
+
+- Crie uma classe Roupa com atributos públicos para:
+    - tipo e cor
+    
+- Atributos privados para:
+    - tamanho e preço
+    
+- Crie uma classe CarrinhoDeCompras que armazena várias roupas
+- Classe Cliente que pode adicionar ou remover roupas do carrinho
+
+- Requisitos:
+    - Atributos privados para tamanho e preço da roupa
+    - Métodos para adicionar e remover roupas no carrinho
+    - Relacionamento entre classes (um cliente tem um carrinho de compras com várias roupas)

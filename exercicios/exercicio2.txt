@@ -1,0 +1,15 @@
+Exercício: Sistema de Livraria
+
+- Crie uma classe Livro que tenha atributos públicos para: 
+    - título e autor
+
+- Atributos privados para:
+    - preço e estoque disponível 
+    
+- Crie uma classe Pedido que represente uma compra de um ou mais livros 
+- Classe Cliente para armazenar o nome e os pedidos
+
+- Requisitos:
+    - Atributos privados para preço e estoque em Livro
+    - Métodos públicos para obter preço e verificar disponibilidade
+    - Relacionamento entre classes (um cliente pode fazer vários pedidos de livros)

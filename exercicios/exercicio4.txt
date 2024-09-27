@@ -1,0 +1,15 @@
+Exercício: Sistema de Aluguel de Carros
+
+- Crie uma classe Carro com atributos públicos para: 
+    - marca e o modelo
+    
+- Atributos privados para: 
+    - número de quilometragem e estado (disponível ou alugado)
+    
+- Crie uma classe Cliente que pode alugar carros 
+- Classe Agencia que controla os carros disponíveis
+
+- Requisitos:
+    - Atributos privados para quilometragem e estado do carro
+    - Métodos para alugar e devolver carros
+    - Relação entre classes (um cliente pode alugar carros de uma agência)

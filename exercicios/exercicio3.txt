@@ -1,0 +1,15 @@
+Exercício: Sistema de Funcionários
+
+- Crie uma classe Funcionario que tenha atributos públicos para:
+    - nome e cargo
+
+- Atributo privado para o salário
+
+- Crie uma classe Departamento que pode conter vários funcionários
+- Classe Empresa que pode conter vários departamentos
+
+- Requisitos:
+    - Atributos privados para o salário
+    - Métodos públicos para acessar e modificar o salário
+    - Relação entre classes (uma empresa tem vários departamentos, 
+                             cada departamento tem vários funcionários)
